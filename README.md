@@ -1,4 +1,4 @@
-Ex.05 Book Cover Page Design
+### Ex.05 Book Cover Page Design
 Date:
 AIM:
 To design a book back cover page using HTML and CSS.
@@ -30,5 +30,27 @@ Publish the website in the LocalHost.
 
 PROGRAM:
 OUTPUT:
+
 RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
+
+## TECHNOLOGIES USED:
+
+- HTML
+- CSS
+- Django (only if used in the project setup)
+
+## HOW TO RUN:
+
+1. Open the project folder.
+2. Start the local server using the appropriate method.
+3. Open a web browser.
+4. Visit the local host address to view the book back cover page.
+
+## PROJECT STATUS:
+
+Completed as a basic HTML and CSS design exercise.
+
+## MY CONTRIBUTION:
+
+Worked on creating the HTML structure, applying CSS styling, selecting colours and arranging images to design the book back cover page.
