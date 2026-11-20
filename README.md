@@ -1,9 +1,11 @@
 ### Ex.05 Book Cover Page Design
 Date:
+
 AIM:
 To design a book back cover page using HTML and CSS.
 
 DESIGN STEPS:
+
 Step 1:
 Create a Django Admin project.
 
@@ -29,6 +31,7 @@ Step 8:
 Publish the website in the LocalHost.
 
 PROGRAM:
+
 OUTPUT:
 
 RESULT:
